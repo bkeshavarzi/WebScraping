@@ -20,3 +20,5 @@ I extracted 797 apartments from the website. For each apartment, the following i
 16.	Nearby schools
 17.	Ranking for nearby schools
 18.	GPS coordinate
+
+I used Numpy and Pandas to clean the extracted data. Plots were done in Plotly.  
